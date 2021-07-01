@@ -1,14 +1,14 @@
 {
   "nome_completo": "Paula Eduarda Maciel da Costa",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "o_que_eu_quero": "Quero me desenvolver cada vez mais como front-end dev, ter uma estabilidade financeira, me sentir satisfeita comigo mesma após um dia de trabalho e encontrar uma empresa que faça eu me sentir acolhida, me entenda como indivíduo e me ensine muito.",
   "cidade_estado:": "Recife/PE",
   "link_linkedin": "https://www.linkedin.com/in/padumaciel/",
   "link_github": "https://github.com/padumaciel/",
   "email": "padumaciel@gmail.com",
   "um_pouco_sobre_mim": [
     "Olá! Me chamo Paula Eduarda mas todo mundo me conhece por Padu. Tenho 25 anos, sou uma recifense que é apaixonada por sua cidade e sempre estou disposta a aprender mais com cada acontecimento da minha vida.",
-    "Aos 18 anos (2014) ingressei no curso de Bacharelado em Ciências Biológicas, na Universidade Federal Rural de Pernambuco. Ao longo dos 3 anos que passou no curso, participei do diretório acadêmico, onde aprendei a trabalhar em grupo e desenvolver minha oratória. Após descobrir que biologia não era o que eu gostaria de seguir fazendo, iniciei o curso de Bacharelado em Design na UniFBV em 2017. Em agosto de 2018, precisei trancar a faculdade por motivos financeiros e tentei vestibular para o mesmo curso, passando no curso Tecnológico em Design Gráfico no IFPE, onde me formo em setembro de 2021.",
-    "Amo livros, filmes, séries, jogos (seja de vídeo-game ou de tabuleiro), HQ's e muitas outras coisas desse imenso universo. Fazer cosplay é uma das coisas que mais amo fazer. Dá  trabalho mas no final vale a pena! Gosto de muitas bandas, mas Taylor Swift, Lana Del Rey e Muse são meus favoritos! Inclusive, em 2019, fui no show de Muse no Rock in Rio e foi a realização de um sonho de adolescência."
+    "Após abandono de faculdade por questões financeiras e frustrações com a desvalorização do mercado de trabalho das minhas duas opções de cursos superiores, resolvi procurar uma profissão que me dê estabilidade financeira e que o meu trabalho seja reconhecido pelo mercado. Conversando com uma amiga da área de TI, ela me apresentou a Reprograma e me estimulou muito na minha transição de carreira. Hoje estou cada vez mais apaixonada pela área.",
+    "Amo livros, filmes, séries, jogos (seja de vídeo-game ou de tabuleiro), HQ's e muitas outras coisas desse imenso universo."
   ],
   "no_que_ja_trabalhei": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "cargo_funcao": "Estagiária - Direção de Arte",
-      "empresa": "Editora Devry",
+      "empresa": "Editora Catamarã",
       "periodo": "Dez/2017 a Jul/2018",
       "atividades_desenvolvidas": "Criação de artes para redes sociais.",
       "link": null
@@ -28,28 +28,45 @@
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "IFPE",
-      "periodo": "Jul/2019 a Set/2021",
-      "resumo_conhecimentos_aprendidos": "Conceitos técnicos do design gráfico, criação"
+      "curso": "Bootcamp - Desenvolvimento Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Na Reprograma alcancei um bom conhecimento nos seguintes assuntos: UX design, Git/Github, HTML, CSS, responsividade, lógica de programação, Javascript, React e soft skills."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Design Gráfico",
+      "instituicao": "IFPE - Instituto Federal de Pernambuco",
+      "periodo": "Jul/2019 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Colhi conhecimentos teóricos e práticos para saber solucionar os mais diversos casos dentro do design gráfico. Desde a semiótica até a criação de identidade visual, protótipos de aplicativos, jogos, entre outros."
+    },
+    {
+      "curso": "Design Bacharelado - Trancado",
+      "instituicao": "UNIFBV",
+      "periodo": "Fev/2017 a Jul/2018",
+      "resumo_conhecimentos_aprendidos": "Apesar do pouco tempo, obtive conhecimentos na história da arte, história do design, desenho de observação, design editorial, entre outros."
+    },
+    {
+      "curso": "Bacharelado em Ciências Biológicas - Trancado",
+      "instituicao": "UFRPE - Universidade Federal Rural de Pernambuco",
+      "periodo": "Mar/2014 a Jan/2017",
+      "resumo_conhecimentos_aprendidos": "Os conhecimentos que adquiri foram na área de biologia celular, zoologia, geologia, botânica, entre outros."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Design thinking e negócios: inovações orientadas pelo design",
+      "instituicao": "PUC Minas",
+      "resumo_conhecimentos_interesses": "Entendimento dos vários métodos e etapas do processo para solução de projetos por meio do design thinking "
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "UI/UX Basics Experience - App Prototype",
+      "instituicao": "Estação Hack from Facebook e Cel.Lep",
+      "resumo_conhecimentos_interesses": "Conhecimento dos processos para criação de aplicativos que tragam um boa experiência ao usuário. Desde como fazer a pesquisa à criação do protótipo do app."
+    },
+    {
+      "interesse_evento_curso": "Algoritmos e Lógica de Programação",
+      "instituicao": "Estía Training",
+      "resumo_conhecimentos_interesses": "Conhecimento do que é algoritmo, como criar um e como se desenvolve a lógica de programação."
     }
   ],
   "no_que_me_destaco": [
@@ -59,15 +76,11 @@
     },
     {
       "habilidade_ferramenta": "CSS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "SASS",
-      "pontuacao": 3
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "JQUERY",
@@ -75,7 +88,7 @@
     },
     {
       "habilidade_ferramenta": "NODE",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
@@ -83,15 +96,11 @@
     },
     {
       "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 7
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "REACT",
-      "pontuacao": 5
-    },
-    {
-      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
@@ -102,32 +111,16 @@
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
-    },
-    {
       "habilidade_ferramenta": "WORDPRESS",
-      "pontuacao": 7
-    },
-    {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 2
-    },
-    {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "FTP",
       "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 6
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "PHOTOSHOP",
@@ -144,6 +137,18 @@
     {
       "habilidade_ferramenta": "FIGMA",
       "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOL",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FRANCÊS",
+      "pontuacao": 5
     }
   ]
 }
