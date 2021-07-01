@@ -1,0 +1,149 @@
+{
+  "nome_completo": "Paula Eduarda Maciel da Costa",
+  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/padumaciel/",
+  "link_github": "https://github.com/padumaciel/",
+  "email": "padumaciel@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá! Me chamo Paula Eduarda mas todo mundo me conhece por Padu. Tenho 25 anos, sou uma recifense que é apaixonada por sua cidade e sempre estou disposta a aprender mais com cada acontecimento da minha vida.",
+    "Aos 18 anos (2014) ingressei no curso de Bacharelado em Ciências Biológicas, na Universidade Federal Rural de Pernambuco. Ao longo dos 3 anos que passou no curso, participei do diretório acadêmico, onde aprendei a trabalhar em grupo e desenvolver minha oratória. Após descobrir que biologia não era o que eu gostaria de seguir fazendo, iniciei o curso de Bacharelado em Design na UniFBV em 2017. Em agosto de 2018, precisei trancar a faculdade por motivos financeiros e tentei vestibular para o mesmo curso, passando no curso Tecnológico em Design Gráfico no IFPE, onde me formo em setembro de 2021.",
+    "Amo livros, filmes, séries, jogos (seja de vídeo-game ou de tabuleiro), HQ's e muitas outras coisas desse imenso universo. Fazer cosplay é uma das coisas que mais amo fazer. Dá  trabalho mas no final vale a pena! Gosto de muitas bandas, mas Taylor Swift, Lana Del Rey e Muse são meus favoritos! Inclusive, em 2019, fui no show de Muse no Rock in Rio e foi a realização de um sonho de adolescência."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária - Departamento de Marketing",
+      "empresa": "Ecoforce Brasil",
+      "periodo": "Nov/2019 a Ago/2020",
+      "atividades_desenvolvidas": "Criação de embalagens e manuais para produtos; artes para redes sociais e mail marketing; e gerenciamento das redes sociais.",
+      "link": "http://www.ecoforce.com.br/"
+    },
+    {
+      "cargo_funcao": "Estagiária - Direção de Arte",
+      "empresa": "Editora Devry",
+      "periodo": "Dez/2017 a Jul/2018",
+      "atividades_desenvolvidas": "Criação de artes para redes sociais.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Design Gráfico",
+      "instituicao": "IFPE",
+      "periodo": "Jul/2019 a Set/2021",
+      "resumo_conhecimentos_aprendidos": "Conceitos técnicos do design gráfico, criação"
+    },
+    {
+      "curso": "Curso de Web Design",
+      "instituicao": "Escola Tal",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Javascript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Curso ES6",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 9
+    }
+  ]
+}
