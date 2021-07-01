@@ -1,0 +1,112 @@
+{
+  "nome_completo": "Allana Evellyn Mendes dos Santos",
+  "o_que_eu_quero": "Procuro atuar com desenvolvimento Front-end, em projetos que impactem a vida das pessoas de forma positiva, em ambiente que possibilite colaboração, autonomia e criatividade",
+  "cidade_estado:": "Igarassu/PE",
+  "link_linkedin": "https://www.linkedin.com/in/allanaevellyn/",
+  "link_github": "https://github.com/allanina",
+  "email": "allanaevellynm@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Eu sempre fui muito motivada a aprender e conhecer coisas novas, e encontrei na área da tecnologia uma possibilidade para isso. Atualmente, estudo Desenvolvimento Front-end e curso Análise e Desenvolvimento de Sistemas pelo IFPE, e busco seguir me desenvolvendo na área de tecnologia em busca de impactar a vida das pessoas, de forma responsável e positiva. Porém, antes disso tudo, me tornei Bióloga e especialista em Gestão Ambiental. ",
+    "Sou motivada por desafios, e gosto de trabalhar de forma colaborativa, sempre buscando crescer em conjunto com a equipe, e tenho como prioridade ampliar meus conhecimentos e minhas habilidades técnicas e interpessoais." 
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assessora Complementar",
+      "empresa": "Prefeitura Municipal de Igarassu",
+      "periodo": "Jan/2021 - Julho/2021",
+      "atividades_desenvolvidas": "Redação de documentos oficiais e serviços administrativos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Digitadora",
+      "empresa": "Prefeitura de Igarassu",
+      "periodo": "Set/2017 a Dez/2020",
+      "atividades_desenvolvidas": "Suporte aos usuários da Biblioteca SESI Indústria do Conhecimento com relação ao acervo físico do espaço, assim como auxílio e suporte no setor de informática, organização e ministramento de eventos, palestras e oficinas, administração de redes sociais e produção de material de divulgação",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Análise e Desenvolvimento de Sistemas | Tecnólogo",
+      "instituicao": "Instituto Federal de Pernambuco",
+      "periodo": "Cursando 3º semestre - Previsão de término 2º semestre de 2022",
+      "resumo_conhecimentos_aprendidos": "Curso de Nível Tecnólogo, aprendendo conceitos de ADS, como: Banco de Dados, Programação Orientada a Objetos, Rede de Computadores, entre outros."
+    },
+    {
+      "curso": "Gestão Ambiental | Especialização",
+      "instituicao": "Universidade Estácio de Sá",
+      "periodo": "Mar/2019 a Mar/2020",
+      "resumo_conhecimentos_aprendidos": "Legislação Ambiental, Conceitos básicos de Administração, Avaliação de Impactos Ambientais e outros conhecimentos voltados à Gestçao Ambiental e Responsabilidade Socioambiental"
+    },
+    {
+      "curso": "Ciências Biológicas | Bacharelado",
+      "instituicao": "Universidade de Pernambuco",
+      "periodo": "Fev/2012 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Além dos conhecimentos do currículo básico da Biologia, como Zoologia, Bioquímica, Estatística, Genética, entre outros, desenvolvi Projeto de Iniciação Científica e apresentações de trabalhos em Congressos e Eventos"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Bootcamp de Desenvolvimento Front-end",
+      "instituicao": "{Reprograma}",
+      "resumo_conhecimentos_interesses": "Bootcamp de Desenvolvimento Front-end, com conteúdos de HTML, CSS, JavaScript e React.js"
+    },
+    {
+      "interesse_evento_curso": "Introdução à criação de websites com HTML5 e CSS3",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Conhecimentos de desenvolvimento Web utilziando HTML e CSS"
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação Essencial",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Conhecimentos de Lógica de Programação"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PYTHON",
+      "pontuacao": 6
+    }
+  ]
+}
