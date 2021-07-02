@@ -61,6 +61,11 @@
       "interesse_evento_curso": "Lógica de Programação Essencial",
       "instituicao": "Digital Innovation One",
       "resumo_conhecimentos_interesses": "Conhecimentos de Lógica de Programação"
+    },
+    {
+      "interesse_evento_curso": "Primeiros Passos no JavaScript",
+      "instituicao": "Trybe",
+      "resumo_conhecimentos_interesses": "Introdução aos conceitos iniciais do JavaScript"
     }
   ],
   "no_que_me_destaco": [
@@ -82,7 +87,7 @@
     },
     {
       "habilidade_ferramenta": "REACT",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
