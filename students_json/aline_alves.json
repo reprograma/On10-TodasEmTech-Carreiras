@@ -1,15 +1,14 @@
 {
   "nome_completo": "Aline Alves dos Santos Dias",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "o_que_eu_quero": "Uma oportunidade como desenvolvedora front-end, aprender novas tecnologias, aumentar meus conhecimentos, ajudar outras pessoas através da resolução de problemas e me desenvolver profissionalmente",
   "cidade_estado:": "Aracaju/SE",
   "link_linkedin": "https://www.linkedin.com/in/aline-alves-dias/",
   "link_github": "https://github.com/AlvesAline",
   "email": "alves.aline2@yahoo.com.br",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Programadora Front-end, apaixonada por aprender tecnologia, formada em Engenharia de Pesca pela UFS, onde obtive habilidades técnicas com testes estatísticos e expandi minha vivência em trabalhos com comunidades e a lidar com incertezas  e desenvolver soluções rápidas, flexíveis e eficazes. ",
+    "Mais de 2 anos de experiência trabalhando com o público de formas diversas. Formada pelo bootcamp da Reprograma em Front-end.",
+    "Uma nordestina que curte chás e livros, nos momentos livre gosto de acampar e fazer trilha, adoro viagens, amigos e filmes."
   ],
   "no_que_ja_trabalhei": [
     {
@@ -44,42 +43,47 @@
   ],
   "o_que_ja_estudei": [
     {
+      "curso": "Desenvolvedora Front-end",
+      "instituicao": "{Reprograma}",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "UX/UI Design, HTML5, CSS3, Git/Github, Lógica de programação, JavaScript, ReactJS."
+    },
+    {
       "curso": "Curso de Algoritmo",
       "instituicao": "Curso em vídeo",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Algoritmo e lógica de programação"
+      "periodo": "Set/2020 a Out/2020",
+      "resumo_conhecimentos_aprendidos": "Algoritmo e lógica de programação."
     },
     {
       "curso": "Curso de html5 e css3",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação de sites e folhas de estilo"
+      "instituicao": "Curso em vídeo",
+      "periodo": "Nov/2020 a Nov/2020",
+      "resumo_conhecimentos_aprendidos": "Criação de sites e folhas de estilo."
     },
     {
       "curso": "Curso de introdução JavaScript",
       "instituicao": "DevMedia",
       "periodo": "Abr/2021 a Mai/2021",
-      "resumo_conhecimentos_aprendidos": "Funções, objetos, classes e ECMAScript"
+      "resumo_conhecimentos_aprendidos": "Funções, objetos, classes e ECMAScript."
     },
     {
       "curso": "Curso de introdução React",
       "instituicao": "DevMedia",
       "periodo": "Mai/2021 a Jun/2021",
-      "resumo_conhecimentos_aprendidos": "Rotas, props, components"
-    }
-    
+      "resumo_conhecimentos_aprendidos": "Rotas, props, components."
+    } 
     
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Bootcamp de Liderança Feminina",
+      "instituicao": "WoMaKersCode",
+      "resumo_conhecimentos_interesses": "Soft skills, inteligência emocional, práticas de trabalho, educação financeira"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Curso Eu progr{amo}",
+      "instituicao": "PrograMaria",
+      "resumo_conhecimentos_interesses": "Html, Css,  JavaScript"
     }
   ],
   "no_que_me_destaco": [
@@ -92,10 +96,6 @@
       "pontuacao": 9
     },
     {
-      "habilidade_ferramenta": "SASS",
-      "pontuacao": 6
-    },
-    {
       "habilidade_ferramenta": "JAVASCRIPT",
       "pontuacao": 8
     },
@@ -104,72 +104,28 @@
       "pontuacao": 6
     },
     {
-      "habilidade_ferramenta": "NODE",
-      "pontuacao": 1
-    },
-    {
       "habilidade_ferramenta": "GIT/GITHUB",
-      "pontuacao": 8
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 9
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "REACT",
-      "pontuacao": 8
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 9
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "UX DESIGN",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 6
-    },
-    {
-      "habilidade_ferramenta": "WORDPRESS",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "PHP",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "MySQL",
-      "pontuacao": 3
-    },
-    {
-      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "FTP",
-      "pontuacao": 5
-    },
-    {
-      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 8
-    },
-    {
-      "habilidade_ferramenta": "PHOTOSHOP",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "ILUSTRATOR",
-      "pontuacao": 9
-    },
-    {
-      "habilidade_ferramenta": "INDESIGN",
-      "pontuacao": 9
+      "pontuacao": 7
     }
   ]
 }
