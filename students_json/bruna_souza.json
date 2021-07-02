@@ -1,18 +1,18 @@
 {
   "nome_completo": "Bruna Silva de Souza",
-  "o_que_eu_quero": "Promover um maior conhecimento sobre a área de front-end, e trabalhar em cima desse conhecimento conquistado",
+  "o_que_eu_quero": "Buscar me desenvolver na área de front-end, e colocar em prática todo o conhecimento conquistado",
   "cidade_estado:": "Olinda/PE",
   "link_linkedin": "https://www.linkedin.com/in/brunasilvadesouza/",
   "link_github": "https://github.com/brunassouza",
   "email": "brunasdesouza98@gmail.com",
   "um_pouco_sobre_mim": [
     "Meu nome é Bruna Souza, tenho 23 anos e atualmente moro na ciade de Olinda em Pernambuco, porém nasci e fui criada na cidade de Santa Rita, localizada na Paraíba.",
-    "Atualmente, trabalho na Accenture, exercendo a função de desenvolvedora SAP. Porém, o meu interesse ao front-end foi despertado",
-    "Gosto muito de ler, ouvir músicas, me divertir no Photoshop e brincar com meus gatinhos"
+    "Atualmente, trabalho na Accenture, exercendo a função de desenvolvedora SAP.",
+    "Gosto muito de ler, correr, conhecer novas músicas e brincar com meus gatinhos"
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Social Media",
+      "cargo_funcao": "Social Media (Trabalho Informal)",
       "empresa": "Torres Desenvolvimento",
       "periodo": "Ago/2018 a Abr/2019",
       "atividades_desenvolvidas": "Posts para as redes sociais, gerenciamento do site para a empresa Narciso Enxovais; atendimento e venda de ingresso para eventos.",
@@ -111,7 +111,7 @@
     },
     {
       "habilidade_ferramenta": "DEVOPS",
-      "pontuacao": 6
+      "pontuacao": 5
     }
   ]
 }
