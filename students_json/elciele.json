@@ -1,0 +1,95 @@
+{
+  "nome_completo": "Elciele de Jesus Lameira Corrêa",
+  "o_que_eu_quero": "Me tornar uma profissional admirável",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/elciele-corr%C3%AAa-2885b1213/",
+  "link_github": "https://github.com/Elciele",
+  "email": "elcielecorrea@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou formada em Gastronomia, trabalhei alguns anos na área, até ter a oportunidade de ingressar no mundo de TI e me apaixonar, e hoje busco pela minha primeira oportunidade de trabalho na área.",
+    "Quero trabalhar como desenvolvedora Front-End e colocar em prática o que aprendi no curso recem finalizado. Desejo aprimorar os conhecimentos adquiridos, estudar outras linguagens e apreder outros idiomas.",
+    "Gosto de cozinhar para a família e amigos e fazer atividades com a minha filha me deixa muito feliz."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Chefe de Cozinha",
+      "empresa": "Bistrô Mansion XV",
+      "periodo": "out/2016 a nov/2018",
+      "atividades_desenvolvidas": "Administração da cozinha, criação de cardápio, controle de qualidade dos produtos, gerenciamento de pessoas e treinamento",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Corretora de imóveis",
+      "empresa": "Lopes",
+      "periodo": "Agos/2009 a Dez/2013",
+      "atividades_desenvolvidas": "Intermediação de vendas de imóvel na planta, prospecção de imovel e clientes",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Gastronomia",
+      "instituicao": "Fmu",
+      "periodo": "jun/2013 a jun/2015",
+      "resumo_conhecimentos_aprendidos": "Gestão de Negócios, legislação relacionada a industria alimenticia, Marketing na área, Gestão de restaurantes, Segurança do Trabalho, Nutrição "
+    }
+   
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Javascript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento mais aprofundado no JavaScript"
+    },
+    {
+      "interesse_evento_curso": "CSS Flex Box",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Buscar melhor entendimento e domínio da liguagem"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    
+      
+  ]
+}
