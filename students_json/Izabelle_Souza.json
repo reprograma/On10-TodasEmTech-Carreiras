@@ -1,0 +1,147 @@
+{
+  "nome_completo": "Anne Izabelle Pereira de Souza",
+  "o_que_eu_quero": " Desejo me desevolver e aprender, o crescimento será uma consequência.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "#",
+  "link_github": "https://github.com/izabellesouza",
+  "email": "izabellepsouzaa@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Olá, eu sou a Izabelle, amante de música, gamer, buscando trabalhar em um ambiente desafiador, onde minha criatividade, habilidade, conhecimento, atenção a detalhes e paixão por tecnologia seja empregada para 'codar' e aprender ainda mais.",
+    "Durante os últimos anos de minha vida, trabalhei na área da contabilidade, onde desempenhava (especificamente) na função fiscal tributária. Ao longo dos anos tive uma vontade enorme de adentrar no aprendizado da tecnologia, mas acabei deixando um pouco de lado. Comecei a estudar para concurso público, e nessa trajetória fui aprendendo muito, principalmente a ter resiliência, sobretudo, força de vontade. Veio a pandemia e tomei gosto por estudar programação (por conta própria), e foi aí que o meu universo se transformou, e para melhor! Me senti muito realizada, e com vontade de aprender muito mais. E eis me aqui, já totalmente imersa neste mundo, o qual não faço gosto de sair, mas sim me aprofundar cada vez mais.",
+    "Adoro filmes, séries, jogos, livros... uma boa leitura, é um ponto fraco, algo que me deixa completamente extasiada. Amo ambientes ao ar livre, praia, um belo pôr do sol me deixa muito feliz.",
+    "Contudo, busco aprender nessa caminhada, unindo o que gosto de fazer com o que amo sentir, e assim, ser ainda mais feliz!"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assistente Fiscal",
+      "empresa": "Sertell",
+      "periodo": "2012/2013",
+      "atividades_desenvolvidas": "Lançamento e análise de Notas Fiscais, apuração de impostos, declarações mensais...",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assistente Fiscal",
+      "empresa": "Escrita Digital (contabilidade)",
+      "periodo": "2012",
+      "atividades_desenvolvidas": "Prestar assistência no controle e cumprimento das obrigações fiscais e contábeis. Analisar documentos fiscais e apurar impostos. Acompanhamento de pendências perante aos órgãos fiscalizadores (Jucepe, Receita Federal, Sefaz...). Abertura de empresas, Contratos, Imposto de renda, escrituração fiscal no geral.",
+      "link": "#"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front End",
+      "instituicao": "Reprograma",
+      "periodo": "Março/julho 2021.",
+      "resumo_conhecimentos_aprendidos": "Lógica da Programação. Html e Css. JavaScript. Bibliotecas e Frameworks. Ux Design. Git & Github. React. Projetos Práticos."
+    },
+    {
+      "curso": "Introdução a Ciência de Dados",
+      "instituicao": "Data Science Academy",
+      "periodo": "2021",
+      "resumo_conhecimentos_aprendidos": "Definição de Ciências de Dados, Ciência de Dados e Big Data, Ciência de Dados e Estatística, Aprendizado de Máquina (Machine Learning), Aplicações da Ciência de Dados, Ciclo de Vida de Projetos de Data Science, Carreiras em Data Science."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Google Analytics",
+      "instituicao": "Academia Stefanini",
+      "resumo_conhecimentos_interesses": "Conceitos e Ferramentas. Coleta de dados com Google Analytics. Tratamento de Dados. Visualização e Análise de Dados. Análise e comunicação de Campanhas. Google Data Studio."
+    },
+    {
+      "interesse_evento_curso": "Azure Fundamentals 900",
+      "instituicao": "Microsoft/WoMakersCode",
+      "resumo_conhecimentos_interesses": "Introdução aos conceitos básicos do Azure. Discutir conceitos fundamentais do Azure. Descrever os principais componentes da arquitetura do Azure. Explorar os serviços de computação do Azure. Explorar os serviços de rede do Azure. Criar uma estratégia de governança de nuvem no Azure. Planeje e gerencie seus custos do Azure. Escolha os serviços do Azure certos examinando SLAs e ciclo de vida do serviço."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 3
+    }
+  ]
+}
+
