@@ -1,0 +1,150 @@
+{
+  "nome_completo": "Mariana de Souza Aguiar",
+  "o_que_eu_quero": "Busco aprimoramento constante para que possa sempre contribuir para equipe enquanto desenvolvedora de software.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/marianadesouzaaguiar/",
+  "link_github": "https://github.com/marianadesouzaaguiar/",
+  "email": "mariana_desouza_2001@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou Bacharela em Gestão da Informação pela UFPE com experiência em projetos de pesquisa.
+     Sempre almejei transicionar para área de desenvolvimento e, no início de 2021, fiz a migração através do
+     bootcamp da Reprograma.",
+    "Devido a minha identificação com a área, desde então venho realizando cursos em diversas plataformas on-line e me inscrito em cursos presenciais.
+     O aprendizado contínuo é uma das minhas máximas de vida.",
+    "Ademais, amo música, livros, línguas e viajar. Acredito na formação humana de forma holística, perpassando por mais 
+     de uma área do conhecimento.",
+    "Pretendo trilhar uma carreira muito rica de conteúdo explorando diversas nuances da tecnologia."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Pesquisadora Freelancer",
+      "empresa": "Instituto Maria da Penha",
+      "periodo": "Set/2019 a Out/2019",
+      "atividades_desenvolvidas": "Terceira onda da Pesquisa de campo sobre Condições Socioeconômicas e Violência Doméstica e Familiar no Brasil.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Atendimento Bilíngue ao Cliente",
+      "empresa": "Foco Aluguel de Carros S/A",
+      "periodo": "Out/2013 a Dez/2014",
+      "atividades_desenvolvidas": "Atendimento bilíngue ao cliente presencialmente, on-line e por telefone, análise de relatórios, planejamento da logística de retiradas e devoluções de veículos, abertura e fechamento de contratos de locação, inserção, edição e acompanhamento de reservas no sistema, avaliação da disponibilidade de veículos por categoria e período, otimização do processo do transfer do cliente aeroporto - loja - aeroporto.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "MBA em Marketing Digital",
+      "instituicao": "Instituto de Gestão e Tecnologia da Informação",
+      "periodo": "Fev/2018 a Out/2021",
+      "resumo_conhecimentos_aprendidos": "Design Thinking, ROI, Data Analytics, Google Ads, Social Ads, E-commerce, Métricas em Mídias Sociais, Inbound Marketing, CRO, Growth Hacking."
+    },
+    {
+      "curso": "Bacharelado em Gestão da Informação",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Fev/2009 a Dez/2014",
+      "resumo_conhecimentos_aprendidos": "Bolsista PIBIC e de extensão, Sistemas de Análise de Decisão, Processos Gerenciais, Diagramas de Caso de Uso, Usabilidade, Acessibilidade, Arquitetura da Informação e Experiência do Usuário."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "HTML Web Developer",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Entendimento sobre lógica de programação, HTML, CSS e javascript"
+    },
+    {
+      "interesse_evento_curso": "Flexbox: Posicione Elementos na Tela",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Entendimento completo sobre Flexbox"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FLEXBOX",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "MARKETING DIGITAL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "SEO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "DESIGN THINKING",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "SOCIAL MEDIA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FIGMA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "PACOTE OFFICE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "WEB ANALYTICS",
+      "pontuacao": 8
+    }
+  ]
+}
