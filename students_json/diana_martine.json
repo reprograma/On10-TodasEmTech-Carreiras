@@ -1,0 +1,143 @@
+{
+  "nome_completo": "Diana Martine Matias Pontes",
+  "o_que_eu_quero": "Quero ser referencia em dev front end",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/dianamartine",
+  "link_github": "https://github.com/dianamartine",
+  "email": "diana_martine@outlook.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma mulher trans, desenvolvedora front end e artista",
+    "Comecei na área de TI por conta da minha curiosidade sobre o funcionamento dos processos por trás do desenvolvimento em programação, primeiro com estudos pessoais sobre os assuntos e logo mais participando de cursos e bootcamps para me sentir segura com meu conhecimento",
+    "Eu adoro estudar; gosto muito de aprender sobre praticamente qualquer coisa; adoro ler; assistir animes e filmes de super heróis; eu amo tocar violão e cantar; gosto de tudo relacionado a arte."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Application Development",
+      "empresa": "Accenture",
+      "periodo": "Jun/2021",
+      "atividades_desenvolvidas": "Desenvolvimento, teste e implementação front end.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "TRANSFORMA",
+      "instituicao": "Porto Digital",
+      "periodo": "Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento Front-end - Programa de capacitação TRANS.FORMA"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "LÓGICA DE PROGRAMAÇÃO I",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "OS PRIMEIROS PROGRAMAS COM JAVASCRIPT E HTML"
+    },
+    {
+      "interesse_evento_curso": "LÓGICA DE PROGRAMAÇÃO II",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "PRATICA COM DESENHOS, ANIMAÇÕES E UM JOGO"
+    },
+    {
+      "interesse_evento_curso": "JAVASCRIPT",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "PROGRAMANDO NA LINGUAGEM DA WEB"
+    },
+    {
+      "interesse_evento_curso": "HTML5 E CSS3",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "AVANÇANDO NO CSS"
+    },
+    {
+      "interesse_evento_curso": "HTML5 E CSS3",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "TRABALHANDO COM FORMULÁRIOS E TABELAS"
+    },
+    {
+      "interesse_evento_curso": "HTML5 E CSS3",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "POSICIONAMENTO, LISTAS E NAVEGAÇÃO"
+    },
+    {
+      "interesse_evento_curso": "HTML5 E CSS3",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "A PRIMEIRA PÁGINA DA WEB"
+    },
+    {
+      "interesse_evento_curso": "GIT E GITHUB",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "CONTROLANDO E COMPARTILHANDO SEU CÓDIGO"
+    },
+    {
+      "interesse_evento_curso": "JOGOS CLÁSSICOS",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "INICIANDO NO JAVASCRIPT COM PONG"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 10
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    }
+  ]
+}
