@@ -1,0 +1,118 @@
+{
+  "nome_completo": "Laís Pereira dos Santos",
+  "o_que_eu_quero": "Continuar trabalhando com tecnologia, quebrando paradigmas e mostrando que esse espaço também nos pertence",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/laispereira-/",
+  "link_github": "https://github.com/laisps",
+  "email": "lais.pereira.santos92@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma mulher preta e nordestina | Analista de Software Jr na Accenture Brasil | Aluna {reprograma} | Estudante de Análise e Desenvolvimento de Sistemas",
+    "Depois de uma graduação em Administração, um MBA em Gestão de Pessoas e outro MBA em Planejamento e Gestão Organizacional, resolvi me desafiar e enfrentar uma transição de carreira para a área de tecnologia. Hoje, estou entusiasmada com a escolha que fiz. Nessa área consigo visualizar um futuro profissional satisfatório e feliz para mim.",
+    "No meu tempo livre gosto de ficar com a minha família, dançar, sair para comer, ver séries e ouvir músicas"
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Customer Experience",
+      "empresa": "Jobecam",
+      "periodo": "Julho/2020-Fevereiro/2021",
+      "atividades_desenvolvidas": "Garantir que todas as funcionalidades da plataforma sejam entregues da melhor maneira para o cliente",
+      "link": "https://jobecam.com/"
+      
+    },
+    {
+      "cargo_funcao": "Mentora e Organizadora (Projeto Voluntário)",
+      "empresa": "Cloud Girls",
+      "periodo": "Agosto/2020 até o momento",
+      "atividades_desenvolvidas": "Incentivar a inclusão de mais mulheres na tecnologia.",
+      "link": "https://www.cloudgirls.com.br"
+    }
+  ],
+  "o_que_ja_estudei": [
+    
+    {
+      "curso": "MBA em Planejamento e Gestão Organizacional",
+      "instituicao": "UPE-Universidade de Pernambuco",
+      "periodo": "Abril/2018 - Janeiro/2020"
+      
+    },
+    {
+      "curso": "MBA em Planejamento em Gestão de Pessoas",
+      "instituicao": "UPE-Universidade de Pernambuco",
+      "periodo": "Abril/2017 - Novembro/2018"
+      
+    },
+    {
+      "curso": "Graduação em Administração",
+      "instituicao": "Unit-Centro Universitário Tiradentes",
+      "periodo": "Agosto/2010 - Agosto/2014"
+      
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Reprograma turma 10 #TodasemTech.",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": " HTML, CSS, JS, Reactjs"
+    },
+    {
+      "interesse_evento_curso": "Formação Oracle ONE: Front-End",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "HTML, CSS, JS, jQuery, Web Design Responsivo"
+      
+    },
+    {
+      "interesse_evento_curso": "Formação Oracle ONE: Lógica de Programação",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "HTML, JS"
+    }
+    
+  ],
+  
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ADOBE XD",
+      "pontuacao": 9
+    }
+
+  ]
+}
