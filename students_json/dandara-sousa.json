@@ -1,0 +1,115 @@
+{
+  "nome_completo": "Antonia Dandara Lopes de Sousa",
+  "o_que_eu_quero": "Busco uma oportunidade como Desenvolvedora Front-end onde eu possa desenvolver minhas habilidades e por em prática todo meu aprenzidado ao lado de empresas que estejam dispostas a um clima organizacional de crescimento mútuo e com impactos transformadores na sociedade.",
+  "cidade_estado:": "Maracanaú-CE",
+  "link_linkedin": "https://www.linkedin.com/in/dandarasousa/",
+  "link_github": "https://github.com/dandaralsousa",
+  "email": "dandaralsousal@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou Dandara, tenho 28 anos, Nordestina, amante de livros, listas e novos desafios.",
+    "Sou formada em Publicidade e Propaganda pela UniFanor e atuo na área há 4 anos como Diretora de Arte em uma agência de comunicação de Fortaleza. Comecei como estagiária e hoje faço parte do time em tempo integral com muito orgulho.",
+    "Há algum tempo senti a necessidade de me reinventar e buscar novos conhecimentos. Após conhecer vários relatos de outras mulheres que também se permitiram viver novos desafios, decidi iniciar minha jornada e a {Reprograma} tem sido peça fundamental para essa nova oportunidade.",
+    "Leitura é minha paixão. Encontrei nos livros uma forma de viver várias aventuras e descobrir novos mundos então sempre preencho meus momentos livres com um bom livro."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Desenvolvedora Front-End",
+      "empresa": "Agência Brasilis de Comunicação",
+      "periodo": "Jul/2021",
+      "atividades_desenvolvidas": "Desenvolvimento de site para a empresa Agência Brasilis de Comunicação situada em Fortaleza. Projeto desenvolvido usando as tecnologias React, JavaScript, HTML5, CSS3 e Responsividade para Mobile.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Diretora de Arte",
+      "empresa": "Agência Brasilis de Comunicação",
+      "periodo": "Jun/2017 até o momento",
+      "atividades_desenvolvidas": "Criação de Logo e Identidade Visual, Mídia Online (Post Feed, Story, Post's Patrocinados, Facebook ADS), Banners Google, Landing Page, Email Marketing e Mídia Offline (Banners, Cartão de Visita, Papelaria Personalizada, Adesivos, Panfletos,  Cartazes, Portfólio Empresarial). Edição de Vídeo.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "BootCamp de Desenvolvimento Front-End",
+      "instituicao": "{Reprograma}",
+      "periodo": "Mar/2021 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "O Bootcamp Todas em Tech tem como ênfase o ensino de programação Front-end para mulheres, com aprendizados em UX/UI Design, Git/Github, HTML5, CSS3, Responsividade, Lógica de Programação, JavaScript, Requisição de Api,  ReactJS."
+    },
+    {
+      "curso": "Comunicação Social - Publicidade e Propaganda",
+      "instituicao": "Unifanor - DeVry Educacional do Brasil",
+      "periodo": "Ago/2012 a Jul/2017",
+      "resumo_conhecimentos_aprendidos": "O curso de Publicidade e Propaganda tem como foco na criação de produção de produtos publicitários e comunicacionais de marcas e empresas. Além de conhecimentos em Comunicação e Política, Planejamento Estratégico, Branding, Storytelling, Redação Publícitária, Marketing digital e Criatividade."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso Online Eu ProgrAmo | 5ª Turma",
+      "instituicao": "Programaria",
+      "resumo_conhecimentos_interesses": "Conceitos Básicos de HTML, CSS, JavaScript, Dicas de Carreira em Tecnologia."
+    },
+    {
+      "interesse_evento_curso": "Inglês Básico/Intermediário ",
+      "instituicao": "Centro de Línguas Estrangeiras do Ceará",
+      "resumo_conhecimentos_interesses": "Curso de nível básico/intermediário com o desenvolvimento na escrita, leitura e conversação. "
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "LÓGICA DE PROGRAMAÇÃO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "DESIGN THINKING",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "EDIÇÃO DE VÍDEO",
+      "pontuacao": 9
+    }
+  ]
+}
