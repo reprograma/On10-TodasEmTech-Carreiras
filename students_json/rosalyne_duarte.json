@@ -1,0 +1,120 @@
+{
+  "nome_completo": "Rosalyne Duarte Conrado",
+  "o_que_eu_quero": "Atuar na área de tecnologia e desenvolvimento front-end, com soluções criativas através de um código legível, usual e limpo.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/rosalyneduarte/",
+  "link_github": "https://github.com/rosalyneduarte",
+  "email": "rosalyneduarte@gmail.com",
+  "um_pouco_sobre_mim": [
+
+    "Sou uma pessoa curiosa, entusiasta, criativa, auto-didata e me adapto facilmente a mudanças. Tenho paixão por tecnologia e sou guiada pelo aprendizado constante.",
+    "Sou formada em Administração de Empresas, pela UPE/FCAP, em 2021.1 iniciei a 2° graduação agora em Analise e Desenvolvimento de Sistemas na Estácio.",
+    "Apaixonada por inovação tecnologica e pela possibilidade de fazer algo que mude o mundo.",
+    "Em constante desenvolvimento profissional, e pessoal porque evoluir é o real sentido da vida."
+
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Agente de Soluções Costumizadas I",
+      "empresa": "Capgemini Brasil",
+      "periodo": "Junho/2021 a atual",
+      "atividades_desenvolvidas": "Estou no momento alocada e voltada no desenvolvimento Back-end, aprendendo a linguagem JAVA.",
+      "link": "https://www.capgemini.com/"
+    },
+    {
+      "cargo_funcao": "Assistente Administrativo/Financeiro",
+      "empresa": "Axial Implantes",
+      "periodo": "Junho/2016 a Maio/2020",
+      "atividades_desenvolvidas": "Testei como 1º usuária final o sistema desenvolvido no outsystems, além de ser responsável por toda o contas a receber / realizar conciliação bancária / verificar casos de Inadimplência.",
+      "link": "http://axial.bio/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Analise e Desenvolvimento de Sistemas",
+      "instituicao": "Universidade Estácio de Sá",
+      "periodo": "Jan/2021 a Agosto/2023 (Previsão de Conclusão)",
+      "resumo_conhecimentos_aprendidos": "Responsável por desenvolver, projetar, analisar, implementar e realizar a manutenção de sistemas de informação de diversos setores"
+    },
+    {
+      "curso": "Administração de Empresas",
+      "instituicao": "Universidade de Pernambuco / FCAP",
+      "periodo": "Junho/2010 a Julho/2015",
+      "resumo_conhecimentos_aprendidos": "Responsável por planejar, organizar e gerenciar o uso dos recursos pessoais e financeiros de uma organização. "
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Desenvolvedora Full Stack",
+      "instituicao": "Bootcamp SoulCode Academy",
+      "resumo_conhecimentos_interesses": "Foi visto HTML, CSS, JavaScript, Node, Bootstrap, Angular e React"
+    },
+    {
+      "interesse_evento_curso": "Desenvolvedora Front-End",
+      "instituicao": "Bootcamp REPROGRAMA",
+      "resumo_conhecimentos_interesses": "Lógica de programação, Git&GitHub, Html, Css, JavaScript , NodeJS, API REST, React."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "BOOSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ANGULAR",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "MONGODB",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 7
+    }
+  ]
+}
