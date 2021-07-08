@@ -16,14 +16,14 @@
       "cargo_funcao": "Professora de Inglês e Educação Digital",
       "empresa": "SME-SP",
       "periodo": "Jul 2017/Jun 2021",
-      "atividades_desenvolvidas": "Dei aulas de inglês e edicação digital no Ensino Fundamental e Médio. Participei também do projeto PPI- Português para Imigrantes (Portas Abertas).",
+      "atividades_desenvolvidas": "Dei aulas de inglês e edicação digital no Ensino Fundamental e Médio. Participei também do projeto PPI- Português para Imigrantes (Portas Abertas)."
       
     },
     {
       "cargo_funcao": "Professora de Inglês",
       "empresa": "SEMEC-PI",
       "periodo": "Jan/2011 até atualmente",
-      "atividades_desenvolvidas": "Ministrando aulas de inglês para Ensino Fundamental.",
+      "atividades_desenvolvidas": "Ministrando aulas de inglês para Ensino Fundamental."
     }
   ],
   "o_que_ja_estudei": [
@@ -32,14 +32,14 @@
       "instituicao": "Reprograma",
       "periodo": "Jan/2021 a Julho/2021",
       "resumo_conhecimentos_aprendidos": "Git e Github, HTML e CSS, Javascript e React."
-    },
+    }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
       "interesse_evento_curso": "Mestrado em Letras - Literatura",
       "instituicao": "UFPI-PI",
       "resumo_conhecimentos_interesses": "Título de Mestre em Literatura"
-    },
+    }
     
   ],
   "no_que_me_destaco": [
@@ -78,7 +78,7 @@
     {
       "habilidade_ferramenta": "WORDPRESS",
       "pontuacao": 6
-    },
+    }
   
   ]
 }
