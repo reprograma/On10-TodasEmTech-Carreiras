@@ -20,6 +20,18 @@
     }
   ],
   "o_que_ja_estudei": [
+     {
+      "curso": "Análise e desenvolvimento de sistemas",
+      "instituicao": "UNINABUCO",
+      "periodo": "jan/2021 a jul/2022",
+      "resumo_conhecimentos_aprendidos": "Lógica de Programação Algorítimica, Lógica Matemática, Programação Orientada a Objetos, Análise e Modelagem de Sistemas, Engenharia de Software."
+    },
+    {
+      "curso": "Psicologia",
+      "instituicao": "UNISAOMIGUEL",
+      "periodo": "fev/2018 a jul/2022",
+      "resumo_conhecimentos_aprendidos": "Análise comportamental, escuta ativa, aplicação de testes, desenvolvimento de competências características do campo psicológico."
+    },
     {
       "curso": "TRANSFORMA",
       "instituicao": "Porto Digital",
